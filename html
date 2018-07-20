@@ -11,6 +11,12 @@
 
     <script type="text/javascript" src="js/defaultscript.js"></script>
     <script type="text/javascript" src="js/quoteSubscription.js"></script>
+    
+    $(document).ready(function () {
+    $('#closeTileButton').on('click', function (e) {
+        $('#first').remove();
+    });
+});
 </head>
 <body>
 <div class="menu-bar">
