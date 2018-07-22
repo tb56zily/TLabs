@@ -1,2 +1,14 @@
 http://www.avajava.com/tutorials/lessons/how-do-i-make-a-socket-connection-to-a-server.html
 https://github.com/jdiamond/html5-examples/blob/master/web-sockets/echo-client.html
+----------------------------------
+
+
+https://stackoverflow.com/questions/26452903/javax-websocket-client-simple-example
+
+http://www.programmingforliving.com/2013/08/jsr-356-java-api-for-websocket-client-api.html   - might work
+
+http://www.pretechsol.com/2014/12/java-ee-websocket-simple-example_12.html try
+
+http://www.baeldung.com/websockets-api-java-spring-client
+
+https://dzone.com/articles/sample-java-web-socket-client
